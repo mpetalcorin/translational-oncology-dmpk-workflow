@@ -13,7 +13,7 @@ The dataset contains 320 simulated compounds. Each row corresponds to one synthe
 No laboratory experiments, animals, or human participants were involved. The dataset was generated computationally using simulated values informed by broad ranges commonly encountered in peer-reviewed DMPK and pharmacology literature. The dataset is therefore synthetic.
 
 ## Preprocessing
-The notebook includes basic preprocessing steps for:
+The workflow includes basic preprocessing steps for:
 - Variable inspection.
 - Feature selection for classification and regression.
 - Standardisation where appropriate for certain models.
