@@ -2,6 +2,7 @@
 A proof-of-concept oncology DMPK workflow that integrates simulated ADME and translational PK data, machine learning, candidate ranking, and simplified PK/PD modelling for developability assessment.
 
 <img width="702" height="986" alt="Screenshot 2026-04-10 at 02 37 02" src="https://github.com/user-attachments/assets/6938f523-163f-4de3-89e2-43cca205786e" />
+
 # Simulated Translational Oncology DMPK Workflow
 ## Overview
 This repository contains a proof-of-concept translational oncology DMPK project built around a simulated portfolio of compounds. The workflow integrates literature-benchmarked ADME and pharmacology variables, exploratory analysis, machine learning, candidate ranking, and simplified PK/PD scenario modelling to demonstrate how DMPK evidence can support candidate selection and human translation.
