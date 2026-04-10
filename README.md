@@ -48,10 +48,10 @@ This project is intended for:
 All data in this repository are simulated for proof-of-concept purposes. The ranges were chosen to be broadly consistent with common DMPK practice and peer-reviewed literature, but the dataset does not represent experimental measurements for real compounds. The outputs should therefore be interpreted as an educational and demonstration, not as a validated preclinical or clinical decision tool.
 
 ## How to use
-Open the notebook to inspect the full analysis and figures. The markdown files provide context on the dataset, model assumptions, limitations, and recommended interpretation.
+Open notebook to inspect the full analysis and figures. The markdown files provide context on the dataset, model assumptions, limitations, and recommended interpretation.
 
 ## Reproducibility
-The notebook was designed as a self-contained demonstration. Reproducibility depends on the Python environment, package versions, and random seed settings included in the notebook.
+The workflow was designed as a self-contained demonstration. Reproducibility depends on the Python environment, package versions, and random seed settings included in the notebook.
 
 ## Citation
 **Petalcorin, M.I.R.** (2026). A Molecularly Informed Synthetic Genomics Pipeline for Variant Prioritization, Rare-Variant Burden Testing, Fine-Mapping, and Patient Stratification. https://github.com/mpetalcorin/translational-oncology-dmpk-workflow/edit
