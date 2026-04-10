@@ -55,4 +55,5 @@ The workflow was designed as a self-contained demonstration. Reproducibility dep
 
 ## Citation
 **Petalcorin, M.I.R.** (2026). A Molecularly Informed Synthetic Genomics Pipeline for Variant Prioritization, Rare-Variant Burden Testing, Fine-Mapping, and Patient Stratification. https://github.com/mpetalcorin/translational-oncology-dmpk-workflow/edit
+
 If referencing this project, cite it as a simulated proof-of-concept workflow for translational oncology DMPK, machine learning-assisted developability assessment, and candidate selection.
