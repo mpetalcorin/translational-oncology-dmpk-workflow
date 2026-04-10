@@ -1,0 +1,7 @@
+target,model,MAE,R2
+pred_human_cl_mL_min_kg,Ridge,5.769,-0.1
+pred_human_cl_mL_min_kg,GradientBoosting,3.602,0.39
+pred_human_cl_mL_min_kg,MLP,8.286,-1.219
+oral_F_percent,Ridge,5.219,0.864
+oral_F_percent,GradientBoosting,5.37,0.847
+oral_F_percent,MLP,10.381,0.51

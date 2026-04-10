@@ -1,0 +1,11 @@
+compound_id,target_class,developability_tier,oral_F_percent,coverage_ratio,safety_margin,pred_human_cl_mL_min_kg,pred_human_t12_h,human_eff_dose_mg,ddi_risk_score,ind_risk_flag,rank_score
+CRH_301,DNA_damage_response,high,95.0,6.556,16.917,6.075,54.758,74.949,0.1,elevated,13.456
+CRH_124,metabolic,high,95.0,2.629,17.642,6.776,49.091,163.633,0.1,elevated,10.104
+CRH_110,metabolic,high,95.0,4.642,26.077,9.888,33.642,217.477,0.1,managed,9.836
+CRH_140,kinase,high,95.0,4.554,13.856,11.041,30.127,179.738,0.1,managed,9.141
+CRH_006,epigenetic,high,95.0,3.973,13.502,15.444,21.538,161.956,0.1,elevated,8.159
+CRH_050,kinase,high,95.0,9.752,17.715,35.0,9.504,165.996,0.1,managed,7.604
+CRH_167,kinase,high,95.0,3.53,27.14,14.425,23.059,304.187,0.1,managed,7.378
+CRH_165,DNA_damage_response,high,95.0,5.643,27.264,29.994,11.09,278.075,0.1,managed,5.984
+CRH_174,epigenetic,high,95.0,2.743,5.99,11.849,28.073,285.229,0.1,elevated,5.975
+CRH_183,kinase,high,92.819,3.614,21.906,30.75,10.818,495.306,0.1,managed,5.772

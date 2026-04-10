@@ -1,0 +1,5 @@
+cluster,oral_F_percent,hlm_clint_uL_min_mg,caco2_papp_1e6_cm_s,coverage_ratio,safety_margin,human_eff_dose_mg
+0,95.0,10.58,0.86,0.52,32.75,1200.0
+1,55.77,176.51,5.2,0.05,294.36,1200.0
+2,89.58,40.9,1.81,0.21,60.13,1200.0
+3,95.0,14.02,1.21,3.53,16.92,304.19
