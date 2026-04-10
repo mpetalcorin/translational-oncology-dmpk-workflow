@@ -23,8 +23,8 @@ A transparent weighted multi-objective score is used to prioritise compounds bas
 ## Intended use
 These models are intended for:
 - Educational demonstration of translational DMPK workflows.
-- Portfolio-style illustration of candidate triage and prioritisation.
-- Interview, presentation, or skills demonstration in quantitative pharmacology and drug discovery.
+- Illustration of candidate triage and prioritisation.
+- Presentation and demonstration in quantitative pharmacology and drug discovery.
 
 These models are not intended for:
 - Real medicinal chemistry decisions.
@@ -53,7 +53,7 @@ All models were trained on a simulated dataset of 320 compounds. The data were g
 
 ## Performance summary
 ### Developability classification
-In the executed notebook, the random forest classifier achieved strong performance relative to logistic regression, showing that nonlinear interactions among DMPK features improved prediction of the simulated high-tier class.
+The random forest classifier achieved strong performance relative to logistic regression, showing that nonlinear interactions among DMPK features improved prediction of the simulated high-tier class.
 
 ### Human PK regression
 Oral bioavailability was predicted substantially better than projected human clearance. This suggests that the synthetic data structure encoded oral exposure more directly, while clearance remained a harder endpoint because of its multidimensional determinants.
