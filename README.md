@@ -8,7 +8,7 @@ A proof-of-concept oncology DMPK workflow that integrates simulated ADME and tra
 This repository contains a proof-of-concept translational oncology DMPK project built around a simulated portfolio of compounds. The workflow integrates literature-benchmarked ADME and pharmacology variables, exploratory analysis, machine learning, candidate ranking, and simplified PK/PD scenario modelling to demonstrate how DMPK evidence can support candidate selection and human translation.
 
 ## Repository contents
-- `principal_scientist_dmpk_oncology_proof_of_concept.ipynb`
+- `dmpk_oncology_proof_of_concept.ipynb`
 - `README.md`, project overview and usage guide.
 - `modelcard.md`, intended use, assumptions, metrics, and limitations of the predictive models.
 - `datasheet.md`, documentation for the simulated dataset and derived variables.
