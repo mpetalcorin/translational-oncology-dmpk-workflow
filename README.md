@@ -54,6 +54,7 @@ Open notebook to inspect the full analysis and figures. The markdown files provi
 The workflow was designed as a self-contained demonstration. Reproducibility depends on the Python environment, package versions, and random seed settings included in the notebook.
 
 ## Citation
-**Petalcorin, M.I.R.** (2026). A Molecularly Informed Synthetic Genomics Pipeline for Variant Prioritization, Rare-Variant Burden Testing, Fine-Mapping, and Patient Stratification. https://github.com/mpetalcorin/translational-oncology-dmpk-workflow/edit
+**Petalcorin, M.I.R.** (2026). A Simulated Translational Oncology DMPK Workflow Integrating ADME Profiling, Machine Learning, and PK/PD-Guided Candidate
+Prioritisation. https://github.com/mpetalcorin/translational-oncology-dmpk-workflow/edit
 
 If referencing this project, cite it as a simulated proof-of-concept workflow for translational oncology DMPK, machine learning-assisted developability assessment, and candidate selection.
